@@ -13,7 +13,6 @@ jobs:
       env:
         SLACK_COLOR: '#3278BD'
         SLACK_ICON: ':bell:'
-        SLACK_MESSAGE: 'Post Content :rocket:'
         SLACK_TITLE: Title
         SLACK_USERNAME: rtCamp
         SLACK_MESSAGE: '{"text": "Sup! We're hacking shit together @HackSussex :spaghetti:"}
